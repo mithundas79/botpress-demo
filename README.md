@@ -1,2 +1,1 @@
-# botpress-demo
-A demo to try botpress
+packages/core/botpress/README.md
